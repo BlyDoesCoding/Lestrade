@@ -1,6 +1,6 @@
 # Lestrade: Colorful Text Printing for Go
 
-![Lestrade Icon](palette.png)
+![Lestrade Icon](logo.png)
 
 
 Lestrade is a small Go library that allows you to print text in different colors. It's a fun and handy tool for adding some visual flair to your command-line applications. With Lestrade, you can make your text stand out and enhance the user experience.
