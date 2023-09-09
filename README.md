@@ -16,19 +16,17 @@ Lestrade is a small Go library that allows you to print text in different colors
 
 ## Usage:
 ```go
-
 package main
 
 import (
-	"fmt"
-	"github.com/BlyDoesCoding/lestrade"
+	lestrade "github.com/BlyDoesCoding/Lestrade"
 )
 
 func main() {
-	fmt.Println(lestrade.Red("This is red text"))
-	fmt.Println(lestrade.Green("This is green text"))
-	fmt.Println(lestrade.Blue("This is blue text"))
+
+	lestrade.PrintRainbow("how are you?")
 }
+
 
 ```
 ## Contributing
